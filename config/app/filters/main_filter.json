@@ -1,0 +1,21 @@
+{
+  "fields" : [ 
+    {
+      "label" : "Range",
+      "field" : "range",
+      "max"   : "10000",
+      "min"   : "0"
+    }, 
+    {
+      "label" : "abc",
+      "field" : "abc",
+      "type" : "dropdown",
+      "values" : ["aaabb", "bbb", "ccc" ]
+    },
+    {
+      "label" : "aaa",
+      "field" : "2222",
+      "type" : "text"
+    }
+  ]
+}
